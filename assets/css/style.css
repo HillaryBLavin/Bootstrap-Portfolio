@@ -1,11 +1,9 @@
 #bio-photo {
     max-width: 200px;
-}
-
-img {
     float: left;
     padding-right: 12px;
 }
+
 
 .footer {
     background: rgb(10, 193, 206);
