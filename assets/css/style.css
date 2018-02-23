@@ -6,3 +6,9 @@ img {
     float: left;
     padding-right: 12px;
 }
+
+.footer {
+    background: rgb(10, 193, 206);
+    height: 50px;
+    padding: 15px;
+}
